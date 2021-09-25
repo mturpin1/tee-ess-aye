@@ -9,3 +9,5 @@ All of the data that you get after your search will be saved to a .json file
 I haven't figured out how to add newlines in .json yet, so that's something I'll add in the future
 
 Have fun!
+
+Also I was too tired to add comments for everything - comments will come later
